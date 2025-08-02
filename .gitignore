@@ -1,0 +1,29 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# VSCode and other editor settings
+.vscode/
+.idea/
+
+# macOS files
+.DS_Store
+
+# Output or temp folders (optional)
+outputs/
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Downloaded spaCy models (optional)
+.spacy/
+
+# PDFMiner cache
+pdfminer/
