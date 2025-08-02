@@ -1,0 +1,72 @@
+📄 Job Description: Data_Analyst.txt
+1. resume2.txt (Similarity: 0.9535)
+2. resume7.txt (Similarity: 0.9515)
+3. resume3.txt (Similarity: 0.9508)
+4. resume9.txt (Similarity: 0.9502)
+5. resume8.txt (Similarity: 0.9432)
+
+📄 Job Description: Embedded_Engineer.txt
+1. resume7.txt (Similarity: 0.9394)
+2. resume9.txt (Similarity: 0.9393)
+3. resume1.txt (Similarity: 0.9391)
+4. resume2.txt (Similarity: 0.9377)
+5. resume8.txt (Similarity: 0.9369)
+
+📄 Job Description: Frontend_Developer.txt
+1. resume7.txt (Similarity: 0.9301)
+2. resume2.txt (Similarity: 0.9272)
+3. resume3.txt (Similarity: 0.9254)
+4. resume8.txt (Similarity: 0.9240)
+5. resume5.txt (Similarity: 0.9225)
+
+📄 Job Description: ML_Engineer.txt
+1. resume9.txt (Similarity: 0.9532)
+2. resume3.txt (Similarity: 0.9524)
+3. resume7.txt (Similarity: 0.9518)
+4. resume8.txt (Similarity: 0.9488)
+5. resume2.txt (Similarity: 0.9486)
+
+📄 Job Description: Python_Developer.txt
+1. resume3.txt (Similarity: 0.9054)
+2. resume7.txt (Similarity: 0.9006)
+3. resume2.txt (Similarity: 0.8932)
+4. resume1.txt (Similarity: 0.8906)
+5. resume9.txt (Similarity: 0.8884)
+
+
+✔ Saved spaCy-based document vectors.
+
+📄 Job Description: Data_Analyst.txt
+1. resume2.txt (Similarity: 0.9535)
+2. resume7.txt (Similarity: 0.9515)
+3. resume3.txt (Similarity: 0.9508)
+4. resume9.txt (Similarity: 0.9502)
+5. resume8.txt (Similarity: 0.9432)
+
+📄 Job Description: Embedded_Engineer.txt
+1. resume7.txt (Similarity: 0.9394)
+2. resume9.txt (Similarity: 0.9393)
+3. resume1.txt (Similarity: 0.9391)
+4. resume2.txt (Similarity: 0.9377)
+5. resume8.txt (Similarity: 0.9369)
+
+📄 Job Description: Frontend_Developer.txt
+1. resume7.txt (Similarity: 0.9301)
+2. resume2.txt (Similarity: 0.9272)
+3. resume3.txt (Similarity: 0.9254)
+4. resume8.txt (Similarity: 0.9240)
+5. resume5.txt (Similarity: 0.9225)
+
+📄 Job Description: ML_Engineer.txt
+1. resume9.txt (Similarity: 0.9532)
+2. resume3.txt (Similarity: 0.9524)
+3. resume7.txt (Similarity: 0.9518)
+4. resume8.txt (Similarity: 0.9488)
+5. resume2.txt (Similarity: 0.9486)
+
+📄 Job Description: Python_Developer.txt
+1. resume3.txt (Similarity: 0.9054)
+2. resume7.txt (Similarity: 0.9006)
+3. resume2.txt (Similarity: 0.8932)
+4. resume1.txt (Similarity: 0.8906)
+5. resume9.txt (Similarity: 0.8884)

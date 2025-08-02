@@ -1,7 +1,7 @@
 import os
-import pandas as pd
-from sklearn.feature_extraction.text import TfidfVectorizer
-import joblib  # To save vectorizers and matrices
+import joblib
+import spacy
+import numpy as np
 
 def load_documents(folder_path):
     docs = []
@@ -13,30 +13,25 @@ def load_documents(folder_path):
                 filenames.append(filename)
     return docs, filenames
 
-def vectorize_documents(docs, save_path=None):
-    vectorizer = TfidfVectorizer()
-    vectors = vectorizer.fit_transform(docs)
-    if save_path:
-        joblib.dump(vectorizer, save_path)
-    return vectors, vectorizer
+def get_doc_vector(nlp, text):
+    doc = nlp(text)
+    if doc.vector_norm:
+        return doc.vector
+    else:
+        return np.zeros(nlp.vocab.vectors_length)
 
 if __name__ == "__main__":
-    # Load cleaned resumes and job descriptions
-    resume_docs, resume_files = load_documents("data/resume_cleaned")
-    jd_docs, jd_files = load_documents("data/jd_cleaned")
+    nlp = spacy.load("en_core_web_md")
 
-    # Combine for global TF-IDF (alternatively, vectorize separately)
-    all_docs = resume_docs + jd_docs
-    tfidf_matrix, vectorizer = vectorize_documents(all_docs, "outputs/tfidf_vectorizer.pkl")
+    resumes, resume_files = load_documents("data/resume_cleaned")
+    jds, jd_files = load_documents("data/jd_cleaned")
 
-    # Split back to resume and JD vectors
-    resume_vectors = tfidf_matrix[:len(resume_docs)]
-    jd_vectors = tfidf_matrix[len(resume_docs):]
+    resume_vectors = [get_doc_vector(nlp, text) for text in resumes]
+    jd_vectors = [get_doc_vector(nlp, text) for text in jds]
 
-    # Save individual parts for later use
     joblib.dump(resume_vectors, "outputs/resume_vectors.pkl")
     joblib.dump(jd_vectors, "outputs/jd_vectors.pkl")
-    pd.Series(resume_files).to_csv("outputs/resume_filenames.csv", index=False)
-    pd.Series(jd_files).to_csv("outputs/jd_filenames.csv", index=False)
+    joblib.dump(resume_files, "outputs/resume_files.pkl")
+    joblib.dump(jd_files, "outputs/jd_files.pkl")
 
-    print("TF-IDF vectorization completed.")
+    print("✔ Saved spaCy-based document vectors.")
