@@ -1,0 +1,119 @@
+A N JA LA  N ISH A R
+ED U C A T IO NC O N T A C T
+8281193742
+anjalanishar61@gmail.com
+Kallettumkara, Thrissur
+linkedin.com/in/anjala-nishar
+github.com/Anjala1611
+A P J ABDUL KALAM
+TECHNOLOGICAL UNIVERSITY
+Master of Computer
+Applications
+Cgpa: 9.182024 - 2026 (current)
+2019- 2022P R O FILE
+Motivated IT professional with over a year of hands-on experience in
+Microsoft SCCM, currently pursuing a Master’s in Computer
+Applications. Skilled in Java, Python, C, and web development
+technologies including HTML, CSS, JavaScript, React.js, and Node.js.
+Eager to apply both industry and academic experience to deliver
+reliable, scalable, and efficient IT solutions.
+T EC H N IC A L S K ILLSW O R K  EX P ER IEN C E
+07/03/2023-
+05/07/2024COGNIZANT TECHNOLOGY SOLUTIONS
+PROGRAMMER
+Worked in System Center Configuration Management
+Managed SCCM infrastructure to deploy software updates and
+applications across a network of devices, resulting in improved
+compliance and reduced security vulnerabilities.
+Provided end-user support, resolving technical issues related to
+hardware and software,.
+worked on manual client remediation on a number of devices.
+Managed Incidents and monitored service Now.
+Conducted regular health checks and performance tuning of
+SCCM environment, which enhanced system efficiency and
+stability.CALLICUT UNIVERSITY
+ST JOSEPH’S COLLEGE
+IRINJALAAKUDA
+B.Sc Mathematics
+CGPA: 8.46
+2017- 2019
+HIGHER SECONDARY
+G H S S KODAKARA
+Biology Science
+90%
+2016- 2017
+SSLC
+ST.JOSEPHS E M H S S ALOOR
+98%
+Adaptability
+Project Management
+Public Relations
+Teamwork
+Time Management
+Leadership
+Effective Communication
+Critical ThinkingS O FT  S K ILLSIN T ER N S H IP
+Developed and evaluated predictive models using linear
+regression for inventory analysis and forecasting.
+Applied key data science principles such as feature engineering,
+model selection, and evaluation to solve real-world problems.
+Utilized Selenium and yfinance to automate web scraping of
+financial data from Yahoo Finance for time series analysis.TECHMAGHI
+DATA SCIENCE INTERN 05/06/2025-
+06/08/2025
+Programming Languages: C, Python, Java 
+Web Development: HTML, CSS, JavaScript 
+Frameworks & Libraries: Node.js, React.js, Java Swing 
+Database Management: MySQL, MongoDB(Basics), Oracle 
+IDEs & Tools: Microsoft Endpoint Configuration Manager (MECM),
+ServiceNow, VS Code 
+Productivity Software: MS Word, MS Excel, MS PowerPointM IC R O  P R O JEC T S
+1.To-Do List Web Application
+Tech Stack: React.js, Node.js, MySQL (via XAMPP),HTML,CSS
+Developed a web-based to-do list application featuring user and
+admin login. Admins can manage user accounts, while users
+have personalized dashboards to create, edit, and delete tasks.
+Upcoming tasks are displayed in a separate window. MySQL
+database was used for data storage and retrieval.
+2. Hangman Game (Java)
+ Tech Stack: Java, Java Swing
+ Designed a GUI-based Hangman game with 10 levels of
+increasing difficulty. Users guess words letter-by-letter to win
+each level. The game includes win/loss logic and dynamic visual
+feedback.
+Foundations: Data, Data, Everywhere
+ Google (via Coursera)
+Introduction to Data Analytics for Business
+ University of Colorado Boulder (via Coursera)
+Introduction to SQL
+ Udemy (Sponsored by Cognizant)
+Blockchain and Its Applications
+NPTEL (IIT Kharagpur)
+(12-week course, Jan–Apr 2025)C ER T IFIC A T IO N S
+English (Fluent)
+Malayalam(Fluent)
+Tamil (Basics)
+Hindi (Intermediate)LA N G U A G ES W O R K S H O P S
+Title: Yoga Pose Detection
+and Classification Using
+Deep Learning
+Conference:National
+Conference on Big Data
+Analysis for
+Computational Social
+Science (Sponsored by
+ICSSR)
+Venue: MES College
+Marampally
+Date: November 5–6, 2024P U B LIC A T IO N SAttended ‘Internet of Things:
+From Concept to Creation’
+Workshop Organized by Mar
+Athanasius College of
+Engineering in collaboration
+with Ernst & Young - Gained
+practical exposure to IoT
+development and insights
+into its real-world
+applications through expert-
+led sessions and interactive
+activities.

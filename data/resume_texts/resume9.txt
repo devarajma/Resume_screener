@@ -1,0 +1,69 @@
+M G University
+HIGHER SECONDARY EDUCATIONYeldo Mar Baselios College , Puthuppady
+Sobhana Public School (CBSE) , kothamangalamBachelor of Computer Application          CGPA: 8.21
+Biology -Informatics Practices                            91.2%APJ Abdul Kalam Technological University
+Mar Athanasius College of Engineering , Kothamangalam
+Master of Computer Application           CGPA: 8.692024-2026 
+2021-2024
+2021AYUSH B RAJ 
+EDUCATIONPassionate about Python programming and Artificial Intelligence, with a strong foundation in problem-solving
+and core programming principles. Committed to building efficient, real-world solutions and continuously
+learning new technologies. Seeking an opportunity to apply my skills in innovative and impactful projects..
+WED MATE
+Python Django
+Wed Mate is a web-based application in the wedding planning industry, streamlines organization and
+management of wedding events . 
+This innovative platform empowers couples to orchestrate their dream wedding. Wed Mate revolutionizes
+the way couples plan their weddings, fostering a seamless and stress-free experience.Creative Constructions
+PHP ,MySQL
+Creative constructions is a online website for construction works like building houses.
+Its main aim is to simplifying complex construction processes and by digitizing workflows, the platform not
+only increases operational efficiency but also contributes to the overall success of the construction projects. PROJECTSSECONDARY SCHOOL EDUCATION
+Sobhana Public School (CBSE) , kothamangalam
+87.8%2019
+ Data Science Intern , TECHMAGHI 
+Developed and evaluated predictive models using linear regression for inventory analysis and forecasting.
+Applied key data science principles such as feature engineering, model selection, and evaluation to solve real-
+world problems.
+Utilized Selenium and yfinance to automate web scraping of financial data from Yahoo Finance for time
+series analysis.INTERNSHIP
+ June 2025 - August 2025Kochi, Kerala |     +919061525135 |      ayushbraj999@gmail.com
+ linkedin.com/in/ayush-b-raj |     github.com/Ayush-B-Raj 
+PROFILE Title: Fake Logo Detection Using Deep Learning
+ Conference: National Conference on Big Data Analysis for Computational Social Science
+ (Sponsored by ICSSR)
+ Venue: MES College Marampally PAPER PRESENTATION
+Internet of Things: From Concept to Creation
+Organized by Mar Athanasius College of Engineering in collaboration with Ernst & Young
+Attended an intensive workshop focused on the end-to-end development of IoT systems.
+Gained hands-on experience in designing, building, and deploying IoT solutions.WORKSHOPS
+Research & Development Volunteer
+IEDC - YMBC (Innovation and Entrepreneurship Development Centre)
+Contributed to various research and development initiatives within the center.
+Played an active role in organizing and conducting a Robo Football event as part of the AI Robotics Expo
+handling event planning, coordination, and technical setup.VOLUNTEERING  2022 -2024March 2025Programming Languages: Python, Java, C, C++
+Web Development: HTML, CSS, JavaScript, PHP
+Frameworks & Libraries: Django, Node.js, React
+Databases & OS: MySQL, Oracle ,Linux
+Productivity Tools: MS Word, MS Excel, MS
+PowerPoint
+Version Control : GitHubTECHNICAL SKILLS
+Project Management
+Teamwork
+Time Management
+Leadership
+Effective Communication
+Critical Thinking
+AdaptabilitySOFT SKILLSUNIQUE WORLD ROBOBTICS
+Artificial IntelligenceCERTIFICATIONS
+NPTEL ( IIT Kharagpur )
+Blockchain and its ApplicationsEVENTER
+React Node.js
+Eventer is a web application designed to streamline the process of browsing and booking events.
+ Built with Node.js for the backend and React.js for the frontend, it provides users with an intuitive
+interface to view available events, book their spots, and manage bookings effortlessly.
+LANGUAGES
+English
+Malayalam
+Hindi
+November 2024

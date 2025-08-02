@@ -1,0 +1,75 @@
+Technical Skill
+Programming Languages:  Python, C
+Web Development : HTML, CSS, PHP, JavaScript
+Databases:  MySQL, MongoDB
+IDEs & Tools:  VS Code, Android Studio,  MS
+Office (Word, Excel, PowerPoint)
+Soft Skill
+Observation
+Decision making
+Adaptability
+Team co llaboration
+Active ListeningMy Contact
+avanthikaps03@gmail.com
+Pulakkal Parambil(H)
+P.O Nattika Beach, Thrissur
+680566+91 8891729558
+GitHub
+LinkedIn
+Workshop
+Gained hands-on experience in IoT system design
+through a practical workshop by Mar Athanasius
+College of Engineering and Ernst & Young.
+Languages
+English
+Malayalam
+HindiEducation
+APJ Abdul Kalam Technological University
+Mar Athanasius College of Engineering, KothamangalamMaster of Computer Applications
+2024-2026
+University of Calicut
+Little Flower College,GuruvayurBSc Computer Science
+2021-2024 CGPA : 6.833
+CBSE
+Le mer Public School,Thriprayar  Higher Secondary Education  
+2019-2021 84.4%
+CBSE
+Le mer Public School,Thriprayar  Secondary Education
+2018-2019 87.8%About Me
+Enthusiastic MCA student at Mar Athanasius College of Engineering with hands-on
+experience in Python, Database Management, and Web Development. Passionate
+about learning, problem-solving, and creating efficient, user-friendly solutions. A
+quick learner and adaptable team player, eager to gain hands-on experience through
+real-world projects. Looking for opportunities to apply technical skills and grow in a
+dynamic, collaborative environment.
+Project
+WITH YOU
+Brief summary:  A cross-platform mobile and web application designed to
+enhance women's well-being through PCOS prediction, menstrual tracking,
+gynecologist access, and emergency support.
+Tools/ Tech Used : Python, Android Studio, MySQL  
+Role:  Streamlined both front-end and back-end development, crafting an
+intuitive Android UI and integrating Python-MySQL workflows for efficient
+health tracking and sec ure data handling.
+Outcome:  Empowered reproductive health access with improved user
+experience and dependable cross-platform support.AVANTHIKA P S
+Internet of Things: From Concept to Creation
+Hobbies & Interests
+Puzzle solving
+Listening music
+Drawing
+Web comics readingAwards & Achievements
+Secured 2nd place in Techwiz Competition  at
+college level, hosted by Little Flower College
+and Easy Courses.CGPA : 8.55
+Certification
+Blockchain and its Applications - NPTEL (2025)
+Paper Presentation
+Presented “ Smart Tank Using IoT ” at ICSSR-
+Sponsored National Conference on Big Data
+Analysis, MES College Marampally.Roles & Responsibilities
+  
+June 2025 – August 2025
+Conducted exploratory analysis on datasets to extract actionable insights.
+Developed simulation models to demonstrate statistical concepts.
+Assisted in organizing and delivering tech-focused training sessions.Data Science Intern — Techmaghi

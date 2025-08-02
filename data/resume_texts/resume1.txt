@@ -1,0 +1,68 @@
+PROFILE
+Dynamic and detail-oriented BCA graduate with a strong
+foundation in computer applications, software development,
+and information technology. Proficient in various database
+management, web technologies, and programming
+languages. Excellent problem-solving skills with a proven
+track record of delivering projects on time. Eager to apply
+academic knowledge and practical experience to contribute
+to the success of a forward-thinking organization.
+LANGUAGES
+English
+Hindi
+Malayalam
+TECHNICAL SKILLSSKILLS
+Fast Learner
+Problem-Solving
+Critical Thinking
+Effective Communication
+Collaboration and Teamwork
+AdaptabilityASHFAQ K S
+WORKSHOPS
+Internet of Things: From
+Concept to Creation
+Organized by Mar Athanasius
+College of Engineering, in
+association with Ernst & YoungCONTACT
+9895544986
+ashfaqshafeek@gmail.com
+Ernakulam, Kerala, 683565, India
+www.linkedin.com/in/ashfaq-ks-
+8b1372315
+https://github.com/AshfaqKs
+https://www.hackerrank.com/profi
+le/ashfaqshafeek
+EDUCATION
+Rajagiri College of Management and Applied Science
+Kakkanad (2021 - 2024) - MG UniversityBachelor of Computer Applications (CCPA - 8.13)Master of Computer Applications 
+Mar Athanasius College of Engineering
+Kothamangalam (2024 - 2026 ) - APJ Abdul Kalam
+Technological University  
+St. Mary's Higher Secondary School Morakkala (2019 -
+2021) - Kerala State Education Board12 Standard (85.4%)th
+Darussalam Public School Pallikkara (2019) - Central
+Board of Secondary Education10 Standard (86.6%)th
+Programming Languages: Java, Python, C, C++ 
+Web Development: HTML, CSS, PHP, JavaScript, Django,
+React.js, Node.js
+Databases: MySQL, SQLite
+Microsoft Tools : MS Word, MS PowerPointACADEMIC PROJECTS
+MediCare – Web Application
+Technologies Used: Django, SQLite, VS Code, GitHub
+MediCare is a web-based e-commerce platform designed to facilitate the seamless purchase of
+medicines and healthcare products. The application provides users with an intuitive interface to
+browse, search, and order a wide range of pharmaceutical products, including medicines, wellness
+items, and beauty products. Built using Django as the backend framework and SQLite as the
+database, MediCare ensures secure transactions and efficient data management. The project was
+developed using VS Code and is now stored in a GitHub repository for version control and
+accessibility.
+PUBLICATIONS
+Detection Of Depression from Textual Data in Social Media Using Machine
+Learning
+Presented at the National Conference on Big Data Analysis for Computational Social Science,
+MES College Marampally, Kerala, India, November 5-6, 2024.
+CERTIFICATIONS
+Unity Associate VR Developer
+Scopik Edutech Pvt Ltd (2024)
+Blockchain and its Applications
+NPTEL (April, 2025)

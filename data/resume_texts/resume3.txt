@@ -1,0 +1,57 @@
+BASITH M RASAK
++91 8606545164
+basithmrasak1@gmail.com
+www.linkedin.com/in/basithmrasakABOUT ME
+PROJECTS
+EDUCATIONSKILLSPERSONAL DETAILS
+CERTIFICATIONSDeep Fake Image Detection  
+Magic Homes    Tech Stack: Python, Flask 
+Tech Stack: PHP MySQL, HTML, CSS, JavaScript MCA student with a foundation in computer science and a strong
+interest in machine learning. Hands on experience in web
+development and data-driven projects, with a passion for building
+intelligent, practical tools. Fast learner with a proactive approach to
+identifying and addressing problems.
+Developed a deepfake detection system to classify real vs. fake
+images.
+Used a ResNet50 CNN for feature extraction and image
+classification.
+Applied image pre-processing techniques to improve data
+quality and model accuracy.Languages: Python, Java, C/C++
+Developer Tools: VS Code, Git,
+Jupyter Notebook, Colab
+Database: MySQL, MongoDB 
+Frameworks: Flask 
+Operating System: Linux,
+Windows 
+Web development: HTML, CSS,
+JavaScript
+Soft Skills: Communication,
+Presentation, Documentation,
+Team Collaboration, Self-LearningDeveloped a House Rental and Sales Management System.
+Built user-friendly interfaces for property listings and search.
+Managed property, tenant, and sales data using a robust
+database.
+Added automation features like email notifications for payments.
+Master of Computer Application 
+Bachelor of Computer Application Mar Athanasius College of Engineering  | CGPA:9.18
+Nirmala College Muvattupuzha  | CGPA:8.542024-26
+2024File Encryption & Decryption Tool
+Tech Stack: Java, JavaFX
+Developed a simple desktop application using JavaFX to
+encrypt and decrypt files using AES algorithm from the
+javax.crypto library.
+Allowed users to select files, enter an encryption key, and
+perform secure file transformations through a clean GUI.
+Focused on core encryption logic and user-friendly interface for
+easy usage.Software Testing | NPTEL
+Python For Data Science |
+NPTEL
+Introduction to DevOps and Site
+Reliability Engineering | Edx
+VOLUNTEER EXPERIENCE
+Actively participated in
+community outreach programs,
+engaging with local residents
+and organizations to identify
+needs and implement relevant
+projects.

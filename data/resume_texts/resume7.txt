@@ -1,0 +1,88 @@
+Anurag V
+/envel⌢peanuragmohanofficial@gmail.com ·♂phone+91 7994839759 ·♂¶ap-¶arkerPalakkad, Kerala, India
+/linkedinLinkedIn ·/githubGitHub
+Profile Summary
+Approaching software development with curiosity and a focus on real-world usability, emphasizing clean,
+maintainable code. Experienced in Python, Git, Flutter, and full-stack development, with contributions
+to projects ranging from system tools to cross-platform apps using React, Node.js, Django, Firebase,
+and Rust. Skilled at tackling complex challenges, adapting quickly, and delivering thoughtful, reliable
+solutions. Committed to clarity, consistency, and continuous improvement in both solo and team envi-
+ronments.
+Education
+Master of Computer Applications (CGPA: 9.44) August 2024 - May 2026
+Mar Athanasius College Of Engineering, Kerala
+Bachelor of Science in Computer Science (CGPA: 8.43) June 2021 – May 2024
+NSS College Ottapalam, Calicut University
+Higher Secondary Education - Computer Science (97.58%) July 2019 – April 2021
+KHSS Kannadi, Kerala
+Secondary Education - State (95%) May 2019
+Government Vocational Higher Secondary School Thiruvilwamala, Kerala
+Technical Skills
+Category Skills
+Programming Languages Python, Java, C, Rust, C++, Dart
+Web Technologies Node.js, Express, React, JavaScript, Bootstrap, TS, HTML, CSS, PHP
+Data Science & AI Pandas, NumPy, Scikit-learn, Matplotlib, LLMs, Generative AI
+Databases & Tools MongoDB, MySQL, Firebase, Supabase, VS Code, GitHub, Flutter
+Security JWT, CORS, HTTPS, SSL
+Soft Skills Conflict Resolution, Teamwork, Troubleshooting, Project Management
+Deployed Project
+Takshak Event Registration Website September 2024
+•UI Developer for Takshak’s live registration website by MA College of Engineering.
+•Built a responsive interface with secure payments and admin dashboard.
+•Detected and handled a SQL injection attempt, ensuring system security.
+Professional Experience
+Young Innovators Program Intern, KDISC December 2023 – March 2024
+•Coordinated statewide innovation outreach across schools and colleges under the Young Innovators
+Program.
+•Delivered orientation sessions to nurture problem-solving and creative thinking among students.
+•Developed strong organizational and communication skills through active collaboration with educa-
+tors and field teams.Data Science Intern, Techmaghi June 2025 – August 2025
+•Built and evaluated predictive models using linear regression, logistic regression, decision trees, and
+random forests.
+•Applied core data science concepts to real-world problems, enhancing practical understanding of
+model selection, evaluation, and feature engineering.
+•Collaborated within a cross-functional team, contributing to project pipelines using Python and
+machine learning frameworks.
+Key Projects
+RUST Project
+TurboXplorer: File Explorer using Tauri GitHub
+•Developed a File Explorer in Rust using Tauri framework that can replace traditional File Explorers
+•Utilized TAO and WRY for managing application windows and interfacing with the webview
+•Achieved 87% faster than Windows File Explorer in searching and 64% faster than MAC File Explorer
+Java + Flutter Project
+Steganography Application GitHub
+•Built a Steganography application with Java backend in Flutter supporting Image in Image, Text in
+Image and Video in Image hiding
+•Utilized LZ4 algorithm for optimized compression and LSB encoding algorithm for payload hiding
+•Integrated Peer to Peer chatting using Flutter P2P package
+React + Node.js Project
+Campus Cart GitHub
+•Created an e-commerce website using React and Node.js enabling students to buy and sell items
+within campus
+•Used MySQL for backend data handling
+Publications
+AI-Driven Community Decision-Making Platforms November 2024
+Presented an AI-driven platform for real-time public engagement to support urban planning at the
+ICSSR-funded National Conference on Big Data Analysis, MES College Marampally.
+Professional Development
+Events and Webinars
+•AI Summit – Google Accelerate-X
+•Cybersecurity Workshop – YHills
+•AI Bootcamp – Google & Hack2skill
+•IoT Workshop – Dept. of CA, MACEProfessional Certifications
+•Rust Developer Certification – NCVET
+•Blockchain and Applications – NPTEL
+•Prompt Engineering Workshop – YouData.ai
+•AI Builders Bootcamp – Google for Developers
+& Hack2skill
+Leadership and Recognition
+Positions of Responsibility
+•Tech Club Leader – Organized 50+ events.
+•Coordinator, YIP (K-DISC) – Mentored
+teams, ran awareness sessions.
+•Volunteer, Takshak – Organized & coordinated
+the Prompt Designing competition.Honors & Awards
+•1st – Word Hunt, Nirmala College
+•1st – Coding , NSS College Ottapalam
+•Selected – District Level, YIP by K-DISC
+•1st – Tech Quiz, NSS College Ottapalam

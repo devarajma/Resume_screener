@@ -1,0 +1,89 @@
+ABHIJITH K SAJEEV
+7356022022abhijithksajeevkaliyath@gmail.com KALIYATH(H)
+PINDIMANA P O
+KOTHAMANGALAM
+ERNAKULAM
+PIN:686692LinkedInGithub
+EDUCATION
+ROLES AND RESPONSIBILITIES
+  Data Science In tern – T echMaghi Pv t. Ltd., K ochi  
+    June 20 25 – August 20 25
+Worked on stock trend prediction using the Amaz on Bestsellers
+dataset .
+Implemen ted time series analysis and w eb scr aping with Py thon.
+Participa ted in t eam-based ev alua tion and men toring sessions .Master of Computer Applications (7.28 CGPA)
+       Mar Athanasius College of Engineering, Kothamangalam 
+       (2024 - 2026)
+Bachelor of Computer Applications (6.36 CCPA) 
+      Mount Carmel College, Kothamangalam 
+      (2020 - 2023)
+Higher Secondary (78%) 
+      Mar Basil Higher Secondary School, Kothamangalam
+      (2018 - 2020)
+S S L C (90%) 
+      T.V.Joseph Memorial Higher Secondary School, Pindimana
+      (2017-2018)I am currently pursuing a Master of Computer
+Applications (MCA) and have practical experience in
+Python, databases, and web development. My problem-
+solving abilities are showcased through academic
+projects and active participation in the ASAP program
+and the Computer Science Club. I have a strong passion
+for emerging technologies and a desire to develop
+effective, real-world solutions. I am looking for
+opportunities to utilize my technical skills and advance
+my career as a software professional within a
+collaborative setting.ABOUT ME
+TECHNICAL SKILL
+Programming Languag es: Python, C , Java, C++
+Web Dev elopmen t: HTML , CSS , JavaScript , PHP ,
+Bootstr ap
+Framew orks & Libr aries:  Node .js, React
+IDEs:  VS Code , Andr oid Studio , Arduino IDE , NetBeans ,
+Jupyter Not ebook
+Databases & OS:  MySQL , Mong oDB , LINUX
+Productivity T ools:  MS Of fice (W ord, Ex cel, PowerPoint)
+Version Con trol : GitHub
+PAPER PRESENTATION
+   Title: Leuk emia Det ection Using Deep Learning
+Con ference: National Con ference on Big Data Analysis
+for Computa tional Social Science (Sponsor ed by
+ICSSR)
+Venue: MES Colle ge Mar ampally
+Date: No vember 5–6 , 2024ACADEMIC PROJECTS
+Hand Gestur e Det ection  
+Dev eloped a machine learning model in Python to detect and
+classif y hand gestur es from imag es using a Kaggle dataset
+containing 10 different gestur es. The system outputs the
+recogniz ed gestur e as text, with potential applica tions in virtual
+reality , human-r obot interaction, gaming , and aiding visually
+impair ed individuals .
+Technolo gies: Py thon, OpenCVDomain: Machine Learning
+All-In-One R ental S ystem
+Designed and developed a rental platform wher e vendors can post
+ads and users can browse and hire items across categories like power
+tools , cars , home goods , and heavy vehicles . Users can view item
+details without logging in, but contact informa tion is mask ed and
+revealed only after login. The system also features admin controls to
+manag e users and items , vendor access to post advertisemen ts, and
+a complain t portal f or user f eedback .
+Technolo gies: PHP , HTML ,CSS , Bootstr ap, JavaScriptDomain: Web Development
+CERTIFICATIONS
+Studen t Dev elopmen t Program (SDP) on Python (3.4.3)
+– IIT Bomba y ,Spok en T utorial (20 21) 
+Block chain and its Applica tions –IIT Khar agpur ,NPTEL
+(2025)WORKSHOP
+Internet of Things: F rom Concept t o Cr eation
+Mar Athanasius Colle ge of Engineering , in collabor ation
+with Ernst & Y oung  
+Attended a practical workshop on IoT and gained hands -
+on e xperience in building and using IoT s ystems .SOFT SKILL
+Adaptability
+Time Manag emen t
+Critical Thinking
+Observ ation
+Problem Solving
+Communica tion
+LANGUAGE
+English
+Hindi
+Malayalam
