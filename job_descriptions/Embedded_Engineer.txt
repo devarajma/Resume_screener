@@ -1,0 +1,15 @@
+Title: Embedded Software Engineer
+Location: Pune, India
+Job Type: Full-Time
+
+Responsibilities:
+- Develop firmware in C/C++ for microcontrollers (ARM, AVR, etc.)
+- Work on RTOS-based systems and low-level device drivers.
+- Debug hardware-software integration issues.
+- Read and understand schematics and datasheets.
+
+Requirements:
+- Strong C/C++ programming skills.
+- Experience with embedded Linux or bare-metal systems.
+- Familiarity with tools like Keil, STM32Cube, or MPLAB.
+- Degree in ECE, EEE, or related discipline.

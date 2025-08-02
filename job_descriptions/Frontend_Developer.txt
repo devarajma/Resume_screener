@@ -1,0 +1,15 @@
+Title: Frontend Web Developer
+Location: Chennai, India
+Job Type: Full-Time
+
+Responsibilities:
+- Build responsive UIs using HTML, CSS, JavaScript.
+- Work with frameworks like React or Angular.
+- Optimize web performance and user experience.
+- Collaborate with backend developers and designers.
+
+Requirements:
+- Strong knowledge of JavaScript and DOM manipulation.
+- Experience with React, Vue, or Angular.
+- Familiarity with RESTful APIs.
+- Understanding of Git, browser dev tools, and accessibility.

@@ -1,0 +1,16 @@
+Title: Data Analyst
+Location: Bangalore, India
+Job Type: Full-Time
+
+Responsibilities:
+- Collect, process, and analyze large datasets.
+- Build dashboards and visual reports using tools like Power BI or Tableau.
+- Write SQL queries to retrieve data from relational databases.
+- Work closely with product and marketing teams to support decision-making.
+- Present insights and recommendations to stakeholders.
+
+Requirements:
+- Proficiency in SQL and Python (Pandas, NumPy, Matplotlib).
+- Strong knowledge of Excel and data visualization tools.
+- Understanding of statistics and basic machine learning.
+- Bachelor’s degree in Computer Science, Statistics, or related field.

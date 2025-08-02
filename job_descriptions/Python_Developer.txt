@@ -1,0 +1,15 @@
+Title: Python Developer
+Location: Remote
+Job Type: Contract
+
+Responsibilities:
+- Develop and maintain backend systems using Python and Django/Flask.
+- Integrate REST APIs with frontend systems.
+- Write clean, efficient, and testable code.
+- Debug and resolve issues in production environments.
+
+Requirements:
+- 1–3 years experience in Python.
+- Hands-on experience with Django or Flask.
+- Experience with Git, Postgres/MySQL, and REST APIs.
+- Knowledge of deployment on AWS or similar platforms is a plus.

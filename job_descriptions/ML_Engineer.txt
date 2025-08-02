@@ -1,0 +1,15 @@
+Title: ML Engineer
+Location: Hyderabad, India
+Job Type: Full-Time
+
+Responsibilities:
+- Design, build, and deploy machine learning models.
+- Perform data cleaning, preprocessing, and feature engineering.
+- Use tools like scikit-learn, TensorFlow, or PyTorch.
+- Collaborate with software developers to integrate models into products.
+
+Requirements:
+- Proficiency in Python and ML libraries.
+- Experience with supervised/unsupervised learning.
+- Knowledge of data structures, algorithms, and system design.
+- M.S./B.S. in CS, Math, or related fields.
